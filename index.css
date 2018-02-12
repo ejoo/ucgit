@@ -3,3 +3,8 @@ header{
 	height: 89px;
 	background: #dedede;
 }
+
+.about{
+	background: red;
+	height: 200px;
+}
